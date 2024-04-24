@@ -50,6 +50,10 @@
 
 ## Forge Clients
 
+##### Raven B1
+* The one and only one which started it all. The first ever build of Raven.
+##### Raven B2
+* Raven B2 is a sequel to Raven b1 with some additional features.
 ##### Raven B3
 * Raven B3 brought about a forge ghost cheating revolution. Originally by blowsy, this client quickly blew up.
 ##### Raven B+
