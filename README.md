@@ -79,3 +79,16 @@
 * FDP Client is a really popular client among free users. It provides a ton of bypasses but is heavily skidded. It was suspected that it contains malware for a short period of time, but it's actually safe.
 ##### NightX
 * NightX is one of my favorite clients. It is an exteremely good client with a lot of bypasses and good visuals. It is based on LiquidBounce+.
+
+## Version Clients
+
+##### Eternal
+* Eternal is an extremely good client especially for BlocksMC. It has bypasses for some other servers too!
+##### 
+* Lime is a really popular free blatant client. It manages to bypass a lot of servers.
+##### 
+* Lime Reborn is a recode of Lime. Lime Reborn comes with a new ClickGUI and better bypasses. It's a pretty solid client imo.
+##### 
+* Vestige is an insanely good multiserver client. It tends to bypass A LOT of servers including Hypixel with the right settings.
+##### 
+* Exhibition was a paid client but the developer released it for free once it got discontinued. It's a really good client.
