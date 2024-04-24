@@ -36,7 +36,7 @@
 ##### Orange Clicker🍊
 * Orange Clicker is a new clicker made by C.M.M. The clicker is not specifically made for Minecraft which means that it can be used for other games as wel, featuring a revolutionising customization system(there is also a paid version called Orange Clicker+ which costs a mere dollar).
 ##### PPClicker
-* PPClicker is an insanely popular autoclicker. They also offer per-user build on their discord server - https;discord.gg/ppclicker.
+* PPClicker is an insanely popular autoclicker. They also offer per-user build on their discord server - https:discord.gg/ppclicker.
 ##### Prism
 * Prism is a cute lil' autoclicker with minimal settings.
 ##### PYClicker
