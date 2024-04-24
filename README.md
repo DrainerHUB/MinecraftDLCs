@@ -60,7 +60,7 @@
 * Raven B+++ by Steven and Cosmic is built on top of Raven B++. It features an undetectable LegitAura and LegitSpeed which Raven B++ lacks.
 ##### Raven N+
 * Raven N+ is a somewhat blatant client by SleepyFish. A lot of people say that this is skidded. However, it is free from any kind of malware.
-##### LowKey V2
+##### Lowkey V2
 * Lowkey V2 is a forge ghost client with a low (XD) number of features.
 ##### Skilled V3
 * Skilled V3 is a pretty solid ghost client, by Skilled. It has all the essential modules for ghost cheating. It also comes with a KillAura but it doesn't bypass.
