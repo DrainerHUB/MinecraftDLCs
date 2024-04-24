@@ -1,6 +1,6 @@
 # Minecraft DLCs
 
-### External Clients
+## External Clients
 
 ##### Koid
 * Koid is a popular external client for Minecrcaft. It has many modules and works on forge-based clients and Lunar Offline.
@@ -29,7 +29,7 @@
 ##### Zoomin
 * Zoomin was a really popular client back in its days. It's AimAssist worked on lunar but it's patched now.
 
-### Auto Clickers
+## Auto Clickers
 
 ##### Exelon
 * Exelon is one of the best autoclickers out there. It also comes with a memory scanner.
