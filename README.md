@@ -12,3 +12,5 @@
 * Itami is a really popular external client. It was used a lot in its days.
 ###### Ecstasy
 * Ecstasy is a terminal based external ghost client.
+###### IceTea
+* The most popular and most used free external ghost client for Minecraft to this date. The AimAssist is buggy tho.
