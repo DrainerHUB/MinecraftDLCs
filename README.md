@@ -92,3 +92,30 @@
 * Vestige is an insanely good multiserver client. It tends to bypass A LOT of servers including Hypixel with the right settings.
 ##### 
 * Exhibition was a paid client but the developer released it for free once it got discontinued. It's a really good client.
+
+## 1.12.2 Clients
+
+##### Earthhack
+*3arthh4ck (earthhack) is an amazing free client. It is a recode of Phobos client, which in itself was an overpowered one. Pair it up with Lambda.
+##### Lambda
+* Lambda is also an amazing client for 1.12.2. It is really popular among anarchy players. Pair it up with 3arthh4ck and you're good to go!
+##### Seppuku
+* Seppuku is a 1.12.2 anarchy client.
+##### Phobos
+* The infamous Phobos. Phobos was a deadly client when it came out though it had a rat. Its Crystal Aura's performance was unmatched. This is the clean version and is really good till this date.
+##### Xulu
+* Xulu is a great anarchy client for 1.12.2.
+##### Gamesense (CS:GO Moment?)
+* Gamesense is a really good client for anarchy servers.
+##### Catalyst
+* Catalyst was a paid client but due to it being discontinued, the developers released it for free.
+##### SalHack
+* SalHack is a really popular client among 1.12.2 players. This is an improved version, Creepy SalHack.
+##### Impact
+* Impact is an insanely popular client specially for new anarchy players. It's often considered the free alternative to Future client.
+##### Wurst+ 3
+* Wurst+ 3 had an epic duel with Phobos (basically watch wifies' vid on it). It too had an overpowered CrystalAura.
+##### Ares
+* Ares client is a utility client which supports 1.12.2, 1.16.5, 1.17.1 and 1.18.1.
+##### KAMI Blue
+* KAMI Blue was an exceptional free anarchy client. It is now discontinued.
