@@ -73,12 +73,8 @@
 
 ## LiquidBounce Based Clients
 
-##### LiquidBounce
+##### LiquidLauncher
 * LiquidBounce is a hybrid client (both ghost and blatant features). It's a really good and trusted client.
-##### LiquidBounce+
-* LiquidBounce+ adds features on top of LiquidBounce.
-##### LiquidBounce++
-* LiquidBounce++ adds features on top of LiquidBounce+.
 ##### FDP
 * FDP Client is a really popular client among free users. It provides a ton of bypasses but is heavily skidded. It was suspected that it contains malware for a short period of time, but it's actually safe.
 ##### NightX
