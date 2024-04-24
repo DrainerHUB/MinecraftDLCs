@@ -14,3 +14,15 @@
 * Ecstasy is a terminal based external ghost client.
 ###### IceTea
 * The most popular and most used free external ghost client for Minecraft to this date. The AimAssist is buggy tho.
+###### Kura(aka Kurahack)
+* Kura (Kurahack) is a free external client developed by kura. It is a pretty solid client
+###### Krypton
+* Krypton is an external ghost client with minimal features but it looks good imo.
+###### Tuke
+* Tuke client is (was) a lunar client cheat made by Tuke. Previously it worked with Lunar Client but they patched it. Currently, it also comes with a memory hacker tool.
+###### Hermolet
+* Hermotet client is a free external ghost client. It looks good imo.
+###### Axenta V2
+* Axenta V2 is an external ghost client. It does not have many features. The gui is similar to Jello's ClickGUI for some reason.
+###### Vega
+* Vega client is a cute little external ghost client. It does its work pretty well.
