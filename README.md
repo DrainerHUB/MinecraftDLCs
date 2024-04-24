@@ -34,7 +34,7 @@
 ##### Exelon
 * Exelon is one of the best autoclickers out there. It also comes with a memory scanner.
 ##### Orange Clicker🍊
-* Orange Clicker is a new clicker made by C.M.M. The clicker is not specifically made for Minecraft which means that it can be used for other games as wel, featuring a revolutionising customization system(there is also a paid version called Orange Clicker+ which costs a mere dollar).
+* Orange Clicker is a new clicker made by C.M.M. The clicker is not specifically made for Minecraft which means that it can be used for other games as well, featuring a revolutionising customization system(there is also a paid version called Orange Clicker+ which costs a mere dollar).
 ##### PPClicker
 * PPClicker is an insanely popular autoclicker. They also offer per-user build on their discord server - https://discord.gg/ppclicker.
 ##### Prism
@@ -47,3 +47,22 @@
 * Sapphire Lite is a new autoclicker with epic randomization.
 ##### Epic Clicker
 * Epic Clicker is an autoclicker made by the Epic client dev.
+
+## Forge Clients
+
+##### Raven B3
+* Raven B3 brought about a forge ghost cheating revolution. Originally by blowsy, this client quickly blew up.
+##### Raven B+
+* Raven B+ is a better version of Raven B3, made by Kopamed. This ghost client is pretty popular among Hypixel players.
+##### Raven B++
+* Raven B++ by KingVoid is a really good free forge ghost client. You have to install Essentials mod along with Raven B++ itself or you can use my very cool launcher which does it all for you!
+##### Raven B+++
+* Raven B+++ by Steven and Cosmic is built on top of Raven B++. It features an undetectable LegitAura and LegitSpeed which Raven B++ lacks.
+##### Raven N+
+* Raven N+ is a somewhat blatant client by SleepyFish. A lot of people say that this is skidded. However, it is free from any kind of malware.
+##### LowKey V2
+* Lowkey V2 is a forge ghost client with a low (XD) number of features.
+##### Skilled V3
+* Skilled V3 is a pretty solid ghost client, by Skilled. It has all the essential modules for ghost cheating. It also comes with a KillAura but it doesn't bypass.
+##### Sapphire
+* Sapphire is a new ghost client with some exceptional features.
