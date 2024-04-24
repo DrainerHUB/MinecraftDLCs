@@ -26,3 +26,5 @@
 * Axenta V2 is an external ghost client. It does not have many features. The gui is similar to Jello's ClickGUI for some reason.
 ##### Vega
 * Vega client is a cute little external ghost client. It does its work pretty well.
+##### Zoomin
+* Zoomin was a really popular client back in its days. It's AimAssist worked on lunar but it's patched now.
