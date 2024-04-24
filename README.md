@@ -70,3 +70,16 @@
 * Skilled V3 is a pretty solid ghost client, by Skilled. It has all the essential modules for ghost cheating. It also comes with a KillAura but it doesn't bypass.
 ##### Sapphire
 * Sapphire is a new ghost client with some exceptional features.
+
+## LiquidBounce Based Clients
+
+##### LiquidBounce
+* LiquidBounce is a hybrid client (both ghost and blatant features). It's a really good and trusted client.
+##### LiquidBounce+
+* LiquidBounce+ adds features on top of LiquidBounce.
+##### LiquidBounce++
+* LiquidBounce++ adds features on top of LiquidBounce+.
+##### FDP
+* FDP Client is a really popular client among free users. It provides a ton of bypasses but is heavily skidded. It was suspected that it contains malware for a short period of time, but it's actually safe.
+##### NightX
+* NightX is one of my favorite clients. It is an exteremely good client with a lot of bypasses and good visuals. It is based on LiquidBounce+.
