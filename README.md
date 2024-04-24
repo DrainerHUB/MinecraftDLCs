@@ -1,4 +1,4 @@
-# MinecraftDLCs
+# Minecraft DLCs
 
 ###### External Clients
 
