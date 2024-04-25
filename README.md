@@ -130,7 +130,5 @@
 * Aristois Client is a client which updates frequently for the latest versions of Minecraft. Some features are locked behind a paywall.
 ##### Coffee
 * Coffee Client is a fabric client working on the latest versions of minecraft. It has good visuals.
-##### Jex
-* Jex client is a fabric client designed for the latest versions of Minecraft. The website may look a bit sus but the client itself is safe.
 ##### BleachHack
 * BleachHack is a popular client for the latest versions of minecraft.
