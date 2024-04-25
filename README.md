@@ -132,3 +132,13 @@
 * Coffee Client is a fabric client working on the latest versions of minecraft. It has good visuals.
 ##### BleachHack
 * BleachHack is a popular client for the latest versions of minecraft.
+
+## Weave Clients
+
+##### RavenWeave
+* RavenWeave is a build of Raven B++ ported over to Weave by PianoPenguin271.
+
+## Bedrock Clients
+
+##### Horion PC-Only
+* Horion is the most used utility mod for Minecraft Bedrock Edition. It features some disablers for some servers and it's literally buttery smooth to cheat with.
