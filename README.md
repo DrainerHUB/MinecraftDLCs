@@ -142,3 +142,39 @@
 
 ##### Horion PC-Only
 * Horion is the most used utility mod for Minecraft Bedrock Edition. It features some disablers for some servers and it's literally buttery smooth to cheat with.
+
+## Miscellaneous
+
+##### Good
+* Good is a simple Minecraft FPS Optimizer made by MYMIC
+##### JByte Decompiler
+* JByte is a program which decompiles JAR files. You can decompile JAR files to see if there's any malicious code in there. discontinued.
+##### VirusTotal.com
+* VirusTotal is a site which scans a particular file through several antiviruses at the same time and gets you the results. (It's not very reliable in the case of external clients as external clients always flag as a virus.)
+##### Forge
+* Forge is a minecraft library which allows you to run mods. The clients under Forge Clients need this to be installed.
+##### Weave Loader
+* Weave is a new mod loader for Lunar Client. Clients like RavenWeave and Fractal need this to be installed.
+##### LiquidBounce Scripts
+* A zip file containing a plethora of LiquidBounce scripts.
+
+## Mods
+
+##### Optifine
+* I didn't really need to include this here but still for the people who don't know, OptiFine is a fantastic mod for Minecraft which is known to double your FPS in most scenarios.
+##### Essentials
+* Essentials is a forge mod for Minecraft which adds a lot of quality-of-life inmprovements. You need to put this in your mods folder if you're using Raven B++
+##### Keystrokes
+* Keystrokes is a popular mod created by Sk1er. It displays WASD keys along with Mouse buttons and their CPS. It can also display useful information like FPS and the Ping.
+##### Patcher
+* Patcher is a must have mod for Minecraft. It fixes a lot of bugs and is known to greatly improve performance due to its tweaks. Credit: Sk1er
+##### ChromeHUD
+* ChromaHUD is a useful mod which displays useful information in the form of a HUD on the screen with cheerful rainbow chroma colour scheme :) Credit: Sk1er
+##### Motion Blur
+* Motion Blur is a simple motion blur mod for Minecraft. It makes your game look smoother. Credit: Sk1er
+##### TNT Time
+* TNT Time is a simple mod which displays the time until detonation of a primed TNT on its top. This is useful for TNT jumping in Bedwars or Skywars. Credit: Sk1er
+##### In-Game Account Switcher
+* In-Game Account Switcher is an amazing mod. It allows you to switch your account inside of your game without relaunching your game. It can be really helpful when cheating to quickly switch between alt accounts. Credit: The_Fireplace
+##### Raven SS Mod Folder
+* This is a mod folder made by vexxy. It includes a nice FPS Boost along with several quality of life improvements.
