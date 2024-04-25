@@ -119,3 +119,18 @@
 * Ares client is a utility client which supports 1.12.2, 1.16.5, 1.17.1 and 1.18.1.
 ##### KAMI Blue
 * KAMI Blue was an exceptional free anarchy client. It is now discontinued.
+
+## New Clients
+
+##### Meteor
+* Meteor is the best utility mod for the latest version of minecraft. It provides support for addons which are well furnished by the community.
+##### Wurst
+* The infamous Wurst Client. It supports all versions from 1.8.9 and onwards. Depending on which version you choose to download, it can be in form of a version client or a fabric mod.
+##### Aristoris
+* Aristois Client is a client which updates frequently for the latest versions of Minecraft. Some features are locked behind a paywall.
+##### Coffee
+* Coffee Client is a fabric client working on the latest versions of minecraft. It has good visuals.
+##### Jex
+* Jex client is a fabric client designed for the latest versions of Minecraft. The website may look a bit sus but the client itself is safe.
+##### BleachHack
+* BleachHack is a popular client for the latest versions of minecraft.
