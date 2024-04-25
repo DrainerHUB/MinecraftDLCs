@@ -120,7 +120,7 @@
 ##### KAMI Blue
 * KAMI Blue was an exceptional free anarchy client. It is now discontinued.
 
-## New Clients
+## New Fabric Clients
 
 ##### Meteor
 * Meteor is the best utility mod for the latest version of minecraft. It provides support for addons which are well furnished by the community.
